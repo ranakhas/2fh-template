@@ -1,0 +1,37 @@
+// clearfix
+%clearfix {
+  &:after {
+    content: " ";
+    display: block;
+    clear: both;
+  }
+}
+
+// reset for list
+%listreset {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+%vertical-top{
+  display: inline-block;
+  vertical-align: top;
+}
+
+// hide text
+@mixin hide-text {
+  overflow: hidden;
+  text-indent: -9999px;
+}
+
+// Placeholder text
+@mixin placeholder($color: $input-color-placeholder) {
+  // Firefox
+  &::-moz-placeholder {
+    color: $color;
+    opacity: 1; // Override Firefox's unusual default opacity; see https://github.com/twbs/bootstrap/pull/11526
+  }
+  &:-ms-input-placeholder { color: $color; } // Internet Explorer 10+
+  &::-webkit-input-placeholder  { color: $color; } // Safari and Chrome
+}
