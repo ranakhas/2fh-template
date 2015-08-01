@@ -13,7 +13,7 @@
 				<div class="two-columns">
 					<div class="col">
 						<div class="main-img">
-							<img src="<?php echo $images_url_prefix; ?>/images/img-01.png" alt="<?php echo $alt_hero;?>">
+							<img src="<?php echo $images_url_prefix; ?>/images/img-01.png" alt="<?php echo $alt_hero;?>x">
 						</div>
 						<!-- social plugin container -->
 						<div class="social-placeholder">
