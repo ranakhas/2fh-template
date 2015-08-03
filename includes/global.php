@@ -1,7 +1,7 @@
 <?php
 // Global
 $amazon_url = "https://dzm6w0994lg7w.cloudfront.net";
-$banners_url_prefix = "https://www.2freehosting.com/NEW/images/banners";
+$banners_url_prefix = "https://www.2freehosting.com/2freehosting/images/banners";
 $cpanel_link = "http://cpanel.2freehosting.com";
 $header_forum_link = "https://www.2freehosting.com/forum";
 $footer_copytight = "2FREEHOSTING.COM &copy; 2011 - 2015";
@@ -9,9 +9,9 @@ $youtube_presentation_link = "about";
 $logo_name = "2FreeHosting";
 $api_ssl = "http";
 $error_page_url = "http://announcement.2freehosting.com/";
-$home_page_url = "https://www.2freehosting.com/NEW";
+$home_page_url = "https://www.2freehosting.com/2freehosting";
 $footer_sitemap_link = "/sitemap";
-$images_url_prefix = "https://www.2freehosting.com/NEW";
+$images_url_prefix = "https://www.2freehosting.com/2freehosting";
 
 // Header language links
 $header_logo_link = "https://www.2freehosting.com";
