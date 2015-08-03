@@ -20,19 +20,7 @@
 	<link href='https://fonts.googleapis.com/css?family=PT+Sans:400,700%7CPassion+One:400' rel='stylesheet' type='text/css'>
 	<link media="all" rel="stylesheet" href="<?php echo $home_page_url; ?>/css/all.css">
 </head>
-<!--Google analytics-->
-<script type="text/javascript">
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-5263515-3']);
-  _gaq.push(['_setDomainName', '.2freehosting.com']);
-  _gaq.push(['_trackPageview']);
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-</script>
-<!--End Google analytics-->
+<?php include 'analytics.html';?>
 <body>
 	<div id="fb-root"></div>
 <script>(function(d, s, id) {
