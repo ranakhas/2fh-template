@@ -6,7 +6,7 @@ $header_page_title_hosting = "Comparación Hosting Gratis y Hosting Ilimitado";
 $header_page_title_faq = "Preguntas Frecuentes sobre el Hosting Gratuito";
 $header_page_title_privacy = "Política de Privacidad Hosting Gratis";
 $header_page_title_tos = "Términos de Servicio Hosting Gratis";
-$header_page_title_about = "Sobre el Proyecto y Servicios de 2FreeHosting";
+$header_page_title_about = "Sobre el Proyecto y Servicios que oferta 2FreeHosting";
 $header_page_title_contact = "Contacto Hosting Gratis";
 $header_page_title_sitemap = "2FreeHosting Sitemap";
 $header_page_title_signup = "Crea una Cuenta de Hosting Gratuito";
@@ -52,10 +52,10 @@ $header_login = "Login";
 $header_register = "Crear cuenta";
 
 // Header menu link names (link name must be in latin letters and use - if more that 1 word)
-$header_reviews_link = "opiniones";
-$header_hosting_link = "web-hosting";
-$header_faq_link = "faq";
-$header_register_link = "crear-cuenta";
+$header_reviews_link = "reviews.php";
+$header_hosting_link = "hosting.php";
+$header_faq_link = "faq.php";
+$header_register_link = "signup.php";
 
 // Page INDEX translations
 $alt_hero = "2freehosting héroe";
@@ -63,7 +63,7 @@ $watch_presentation = "Nuestra <br>Presentación";
 $index_p1 = "2FreeHosting es uno de los proveedores de hosting gratis más relevantes. Ofrecemos los mejores servicios de hosting para aquellas personas que no puedenn pagar y necesitan espacio para su web."; 
 $index_p2 = "Asimismo, ofrecemos un inigualable uptime del 99,9% <a href=\"http://stats.pingdom.com/4qjgqdvr6252/885154\" target=\"_blank\">(compruébalo)</a>, subdominios gratis, sporte 24/7 y mucho más. 2FreeHosting, el hosting seguro, rápdo y fácil de usar. ¡Aloja tu sitio en el mejor proveedor!"; 
 $index_h1 = "Más de"; 
-$index_h1_3 = "Webs Alojadas";
+$index_h1_3 = "Páginas Alojadas";
 $icon_description_disk = "Espacio";
 $icon_description_bandwidth = "Bandwidth";
 $icon_description_uptime = "Uptime";
@@ -78,10 +78,10 @@ $index_features_5_1 = "Subdominios";
 $index_register_free = "Crear cuenta";
 $index_register_free_2 = "¡Sin publicidad ni costes ocultos!";
 // Link names (link name must be in latin letters and use - if more that 1 word)
-$footer_link_name5_link = "sobre";
-$footer_link_name6_link = "link";
-$footer_link_name7_link = "contacto";
-$footer_link_name8_link = "fans";
+$footer_link_name5_link = "about.php";
+$footer_link_name6_link = "link.php";
+$footer_link_name7_link = "contact.php";
+$footer_link_name8_link = "fans.php";
 
 // Index footer "Partners", "Other", "Free Hosting" and "Follow Us" names
 $footer_title1 = "Socios";
@@ -294,14 +294,14 @@ $about_h2_1 = "¿Quíenes somos?";
 $about_h2_2 = "¿Qué hacemos?";
 $about_h2_3 = "Encuéntranos en las redes sociales";
 
-$about_p_1 = "2freehosting.com (aka 2FH) es un proyecto de hosting joven, de rápido crecimiento. Fundado en el año 2011 y en solo 3 años, alojamos a más de 1 000 000 de sitios web. <p>Mucha gente nos suele preguntar por qué ofrecemos un servicio de tan alta calidad totalmente gratis. La respuesta es sencilla. Contamos con otras fuentes de ingresos como: Google Ads, Planes Premium para aquellos quienes necesitan más potencia, productos de nuestra Fan Zone, donaciones y registros de nombres de dominio. Además, contamos con un equipo procedente de todas las partes del mundo, por lo que contamos con versiones en Ruso, Inglés, Español, Lituano, Francés y otros idiomas, con el fin de que te sientas lo más cómodo posible.</p>";
+$about_p_1 = "2freehosting.com (aka 2FH) es un proyecto de hosting joven, de rápido crecimiento. Fundado en 2011 y en solo 3 años, alojamos a más de 1 000 000 de sitios. <p>Mucha gente nos suele preguntar por qué ofrecemos un servicio de tan alta calidad totalmente gratis. La respuesta es sencilla. Contamos con otras fuentes de ingresos como: Google Ads, Planes Premium para aquellos quienes necesitan más potencia, productos de nuestra Fan Zone, donaciones y registros de nombres de dominio. Además, contamos con un equipo procedente de todas las partes del mundo, por lo que contamos con versiones en Ruso, Inglés, Español, Lituano, Francés y otros idiomas, con el fin de que te sientas lo más cómodo posible.</p>";
 $about_p_2 = "Ofrecemos hosting rápido y seguro a miles de personas procedentes de todo el mundo. Además, proporcionamos soporte rápido, de calidad y claro para todos nuestros clientes. Apreciamos tanto a nuestros clientes que contamos con una página de Facebook, Foro, cuentas de Twitter y Google+, donde pueden chatear, participar en nuestros juegos y ganar maravillosos premios.<p>Empezamos cada día con energía nueva para añadir nuevas características y estabilidad a nuestro servicio, y así crear un sitio ideal para tu web.</p>"; 
 
 // Page CONTACT translation
 $alt_hero_3 = "2freehosting hero contacta";
 $contact_h1 = "Contacto";
 $contact_h2_1 = "¡Te responderemos en 24 horas!";
-$contact_p_1 = "Si ya eres nuestro cliente, envíanos tu consulta desde el <a href=\"http://cpanel.2freehosting.com\" target=\"_blank\">Panel de Control</a> para ponerte en contacto con nosotros.";
+$contact_p_1 = "Si ya eres cliente, envíanos tu consulta desde el <a href=\"http://cpanel.2freehosting.com\" target=\"_blank\">Panel de Control</a> para ponerte en contacto con nosotros.";
 $contact_p_2 = "Escribe los caracteres:";
 $contact_p_3 = "Enviar Mensaje";
 $contact_placeholder_1 = "Nombre";
@@ -330,7 +330,7 @@ $linkus_p2 = "Hosting Gratis";
 // Page FANS translation
 $alt_hero_4 = "2FreeHosting Hero Fan";
 $fans_h1 = "Los mejores artículos para nuestros <mark>Fans</mark>!";
-$fans_p1 = "¿Estás orgulloso de tu web? ¿Estás orgulloso de 2FreeHosting? Únete a nuestra Fan Zone y hazle saber a tus amigos y familia que estar online gratis es posible. No tiene sentido gastarse dinero en algo que puede ser gratis. ¡Hazle saber a todo el mundo lo listo que eres!";
+$fans_p1 = "¿Estás orgulloso de tu web? ¿Y de 2FreeHosting? Únete a nuestra Fan Zone y hazle saber a todos que estar online gratis es posible. No tiene sentido gastar dinero en algo que puede ser gratis. ¡Hazle saber a todo el mundo lo listo que eres!";
 $fans_p2 = "En nuestra Fan Zone oficial, podrás conseguir los productos exclusivos para clientes de 2FreeHosting. Además, ¡estarás ayudando a que hagamos un mejor hosting gratis! Juntos, somos fuertes. ¿Eres parte de 2FreeHosting?";
 $fans_item_1 = "Camiseta Hombre 2FreeHosting";
 $fans_item_2 = "Funda portátil 2FreeHosting";
@@ -351,14 +351,14 @@ $fans_item4_description = "Tu oficina estará impecable con nuestra alfombrilla 
 $fans_item5_description = "Lleva nuestra camiseta y hazle saber a todo el mundo que alojas tu web en 2FreeHosting. Una decision inteligente."; 
 $fans_item6_description = "¿Te preguntabas que mano es más valiosa que una Escalera Real en Poker? ¡Tener una Escalera Real y nuestra carta!"; 
 $fans_item7_description = "Bien la uses como amuleto o para jugar al Poker, nuestra ficha oficial impresionará a todos tus conocidos."; 
-$fans_item8_description = "No te prometemos que dejarás de perder tus documentos, ¡pero te aseguramos que todos alucinarán cuando vean nuestra carpeta!"; 
-$fans_item9_description = "Tu café o chocolate caliente se enfriarán en algún momento, pero afrontémoslo; tomértelo en nuestro tazón es mucho mejor."; 
-$fans_item10_description = "Nuestras oficinas están llenas de estas pegatinas. ¡Son profesionales y a todos les encantarán! Pégalas en tu habitación o trabajo."; 
+$fans_item8_description = "No te prometemos que dejarás de perder tus docs, ¡pero te aseguramos que todos alucinarán cuando vean la carpeta!"; 
+$fans_item9_description = "Tu café o chocolate caliente se acabarán enfriarando, pero afrontémoslo: tomértelo en nuestro tazón es mejor."; 
+$fans_item10_description = "Nuestras oficinas están llenas de ellas. ¡Son profesionales y a todos les encantarán! ¡Pégalas tú también!."; 
 // Footer
 $footer_privacy = "Privacidad";
 $footer_terms = "Términos de Uso";
 // Link names (link name must be in latin letters and use - if more that 1 word)
-$footer_privacy_link = "privacidad";
-$footer_terms_link = "tos";
-$footer_sitemap = "Sitemap";
+$footer_privacy_link = "privacy.php";
+$footer_terms_link = "tos.php";
+$footer_sitemap = "Sitemap.php";
 ?>
