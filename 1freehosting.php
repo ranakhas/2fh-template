@@ -11,7 +11,7 @@
 		<main role="main" id="main">
 			<div class="holder">
 				<div class="heading">
-					<h1>1FreeHosting aka 1FreeHosting.com Review</h1>
+					<h1>1FreeHosting aka 1FreeHosting.com Reviews</h1>
 				</div>
 				<h2>What information you should know about first free hosting (1freehosting.com) or the services before signing up?</h2>
 				<p>The free hosting service has all you need to start building websites within minutes, they offer top quality servers, much disk space and all of the major server resources you may need for you hosting. First of all 1freehosting aka firstfreehosting was established in the year 2006 and keeps growing until these days. Currently hosting over 50 thousand clients with the first free hosting servers out there.</p>
