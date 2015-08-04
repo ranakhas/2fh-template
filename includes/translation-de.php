@@ -52,10 +52,10 @@ $header_login = "Login";
 $header_register = "Registrierung";
 
 // Header menu link names (link name must be in latin letters and use - if more that 1 word)
-$header_reviews_link = "reviews.php";
-$header_hosting_link = "hosting.php";
-$header_faq_link = "faq.php";
-$header_register_link = "signup.php";
+$header_reviews_link = "meinungen";
+$header_hosting_link = "hosting";
+$header_faq_link = "faq";
+$header_register_link = "registrierung";
 
 // Page INDEX translations
 $alt_hero = "2FreeHosting Held";

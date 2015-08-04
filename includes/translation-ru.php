@@ -12,7 +12,6 @@ $header_page_title_sitemap = "Карта сайта 2FreeHosting";
 $header_page_title_signup = "Зарегистрируйтесь на бесплатном хостинге";
 $header_page_title_link = "Ссылка на наш сайт с бесплатным хостингом";
 $header_page_title_fans = "Заказ прикольных вещей на 2FreeHosting";
-
 $header_logo_alt = "Бесплатный хостинг";
 
 // META Page descriptions
@@ -52,10 +51,10 @@ $header_login = "Логин";
 $header_register = "Зарегистрироваться";
 
 // Header menu link names (link name must be in latin letters and use - if more that 1 word)
-$header_reviews_link = "reviews.php";
-$header_hosting_link = "hosting.php";
-$header_faq_link = "faq.php";
-$header_register_link = "signup.php";
+$header_reviews_link = "reviews";
+$header_hosting_link = "hosting";
+$header_faq_link = "faq";
+$header_register_link = "signup";
 
 // Page INDEX translations
 $alt_hero = "Герои 2freehosting";

@@ -1,4 +1,5 @@
 <?php
+
 // Page titles
 $header_page_title_home = "Hébergement web gratuit avec cPanel, PHP5, SSH et MySQL. Hébergez des sites webs gratuitement";
 $header_page_title_reviews = "Avis des hébergements gratuits sur www.2freehosting.com";
@@ -52,10 +53,10 @@ $header_login = "Connexion";
 $header_register = "S'inscrire";
 
 // Header menu link names (link name must be in latin letters and use - if more that 1 word)
-$header_reviews_link = "reviews.php";
-$header_hosting_link = "hosting.php";
-$header_faq_link = "faq.php";
-$header_register_link = "signup.php";
+$header_reviews_link = "avis";
+$header_hosting_link = "hosting";
+$header_faq_link = "faq";
+$header_register_link = "inscrire";
 
 // Page INDEX translations
 $alt_hero = "héros 2freehosting";

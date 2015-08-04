@@ -1,7 +1,7 @@
 <?php
 // Page titles
 $header_page_title_home = "Hosting Gratis España con cPanel, PHP5, SSH y MySQL. Alojamiento web gratis";
-$header_page_title_reviews = "Reseñas sobre el Hosting gratis www.2freehosting.com";
+$header_page_title_reviews = "Opiniones sobre el Hosting gratis www.2freehosting.com";
 $header_page_title_hosting = "Comparación Hosting Gratis y Hosting Ilimitado";
 $header_page_title_faq = "Preguntas Frecuentes sobre el Hosting Gratuito";
 $header_page_title_privacy = "Política de Privacidad Hosting Gratis";
@@ -17,7 +17,7 @@ $header_logo_alt = "Hosting Gratis";
 
 // META Page descriptions
 $header_page_description_home = "2FreeHosting es un proveedor de hosting gratis. Hosting gratis con SSH y PHP, panel de control, MySQL, sin publicidad, creador de sitios online con miles de plantillas."; 
-$header_page_description_reviews = "Lee reseñas de personas reales y comentarios de facebook sobre www.2freehosting.com.";
+$header_page_description_reviews = "Lee opiniones de personas reales y comentarios de facebook sobre www.2freehosting.com.";
 $header_page_description_hosting = "Ofrecemos hosting gratis y hosting premium ilimitado con capacidad y velocidad máxima.";
 $header_page_description_faq = "Preguntas y respuestas frecuentes sobre el hosting gratis.";
 $header_page_description_privacy = "Política de Privacidad de www.2freehosting.com.";
@@ -44,7 +44,7 @@ $header_page_keywords_link = "link, banners, linkas, affiliate program, link to 
 $header_page_keywords_fans = "fan page, fans, free hosting, fan zone, camisetas, copas, fundas portátil";
 
 // Header menu sections
-$header_reviews = "Reseñas";
+$header_reviews = "Opiniones";
 $header_hosting = "Web Hosting";
 $header_forum = "Foro";
 $header_faq = "FAQ";
@@ -52,10 +52,10 @@ $header_login = "Login";
 $header_register = "Crear cuenta";
 
 // Header menu link names (link name must be in latin letters and use - if more that 1 word)
-$header_reviews_link = "reviews.php";
-$header_hosting_link = "hosting.php";
-$header_faq_link = "faq.php";
-$header_register_link = "signup.php";
+$header_reviews_link = "opiniones";
+$header_hosting_link = "hosting";
+$header_faq_link = "faq";
+$header_register_link = "registro";
 
 // Page INDEX translations
 $alt_hero = "2freehosting héroe";
@@ -99,7 +99,7 @@ $footer_link_name8 = "Fan Zone";
 
 // Page REVIEWS translation
 $reviews_h1 = "Reseñas reales sobre el Hosting Gratis";
-$reviews_p1 = "Opinopnes de gente real son siempre un buen indicador para comprobar el valor de una página. Aquí puedes leer lo que personas de todo el mundo dicen sobre nuestros servicios de hosting gratis antes de que te registres. ¡Cientos de opiniones no pueden estar equivocadas! Encuentra más noticias en nuestra <a href=\"https://www.facebook.com/MyFreeHosting\" target=\"_blank\"> Página de Facebook</a>";
+$reviews_p1 = "Opiniones de gente real son siempre un buen indicador para comprobar el valor de una página. Aquí puedes leer lo que personas de todo el mundo dicen sobre nuestros servicios de hosting gratis antes de que te registres. ¡Cientos de opiniones no pueden estar equivocadas! Encuentra más noticias en nuestra <a href=\"https://www.facebook.com/MyFreeHosting\" target=\"_blank\"> Página de Facebook</a>";
 
 
 // Page HOSTING translation

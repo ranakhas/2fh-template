@@ -52,10 +52,10 @@ $header_login = "Masuk";
 $header_register = "Daftar";
 
 // Header menu link names (nama arahan harus dalam huruf latin dan penggunaannya - jika lebih dari 1 kata)
-$header_reviews_link = "reviews.php";
-$header_hosting_link = "hosting.php";
-$header_faq_link = "faq.php";
-$header_register_link = "signup.php";
+$header_reviews_link = "reviews";
+$header_hosting_link = "hosting";
+$header_faq_link = "faq";
+$header_register_link = "daftar";
 
 // Page INDEX translations
 $alt_hero = "agoan 2freehosting";
