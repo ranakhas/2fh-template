@@ -78,10 +78,10 @@ $index_register_free = "Бесплатная регистрация";
 $index_register_free_2 = "Никакой рекламы! Никакой скрытой платы!";
 
 // Link names (link name must be in latin letters and use - if more that 1 word)
-$footer_link_name5_link = "about.php";
-$footer_link_name6_link = "link.php";
-$footer_link_name7_link = "contact.php";
-$footer_link_name8_link = "fans.php";
+$footer_link_name5_link = "nam";
+$footer_link_name6_link = "ssylka";
+$footer_link_name7_link = "kontakt";
+$footer_link_name8_link = "fans";
 
 // Index footer "Partners", "Other", "Free Hosting" and "Follow Us" names
 $footer_title1 = "Партнеры";
