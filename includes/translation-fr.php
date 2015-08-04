@@ -80,7 +80,7 @@ $index_register_free = "Inscription Gratuite";
 $index_register_free_2 = "Pas de pub ! Pas de frais cachés !";
 // Link names (link name must be in latin letters and use - if more that 1 word)
 $footer_link_name5_link = "nous";
-$footer_link_name6_link = "link";
+$footer_link_name6_link = "lien";
 $footer_link_name7_link = "contacter";
 $footer_link_name8_link = "fans";
 
