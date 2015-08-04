@@ -12,6 +12,7 @@ $header_page_title_sitemap = "Карта сайта 2FreeHosting";
 $header_page_title_signup = "Зарегистрируйтесь на бесплатном хостинге";
 $header_page_title_link = "Ссылка на наш сайт с бесплатным хостингом";
 $header_page_title_fans = "Заказ прикольных вещей на 2FreeHosting";
+
 $header_logo_alt = "Бесплатный хостинг";
 
 // META Page descriptions

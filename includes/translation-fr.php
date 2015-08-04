@@ -1,5 +1,4 @@
 <?php
-
 // Page titles
 $header_page_title_home = "Hébergement web gratuit avec cPanel, PHP5, SSH et MySQL. Hébergez des sites webs gratuitement";
 $header_page_title_reviews = "Avis des hébergements gratuits sur www.2freehosting.com";
