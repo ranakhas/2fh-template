@@ -102,7 +102,7 @@ $reviews_h1 = "Review tentang Hosting Gratis";
 $reviews_p1 = "Review sebenarnya dari orang asli merupakan cara yang bagus untuk mengecek nilai situs. Lihatlah apa kata orang seluruh dunia tentang layanan hosting gratis kami sebelum anda daftar. Ratusan review tidak mungkin salah! Temukan berita kami di <a href=\"https://www.facebook.com/MyFreeHosting\" target=\"_blank\">Facebook page</a>";
 
 // Page HOSTING translation
-$alt_hero_2 = "penunjukkan jagoan 2freehosting";
+$alt_hero_2 = "penunjukkan jagoan 2FreeHosting";
 $hosting_h1 = "Anda mendapatkan semuanya <mark>gratis</mark>";
 $hosting_p1 = "Proyek kami, www.2freehosting.com, menggunakan server bermutu tinggi dengan jalur internet paling kuat hingga 1000 mbps. Tak terkalahkan 99,99% up-time dan layanan pelanggan 24 jam yang akan senantiasa menjawab semua pertanyaan seputar itu. Juga, anda bisa memulai situs gratis dengan salah satu subdomain gratis kami!";
 $hosting_plan_1 = "Hosting Gratis";
