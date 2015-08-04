@@ -78,10 +78,10 @@ $index_features_5_1 = "Subdomains";
 $index_register_free = "Daftar Gratis";
 $index_register_free_2 = "Tanpa Iklan! Tanpa Biaya Tambahan!";
 // Link names (Nama arahan harus menggunakan huruf latin dan penggunaannya - jika lebih dari 1 kata)
-$footer_link_name5_link = "about.php";
-$footer_link_name6_link = "link.php";
-$footer_link_name7_link = "contact.php";
-$footer_link_name8_link = "fans.php";
+$footer_link_name5_link = "kami";
+$footer_link_name6_link = "arahkan";
+$footer_link_name7_link = "hubungi";
+$footer_link_name8_link = "penggemar";
 
 // Index footer "Mitra", "Lain-lain", "Hosting Gratis" and "Ikuti Kami" nama-nama
 $footer_title1 = "Mitra";
