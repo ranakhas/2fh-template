@@ -51,10 +51,10 @@ $header_login = "Логин";
 $header_register = "Зарегистрироваться";
 
 // Header menu link names (link name must be in latin letters and use - if more that 1 word)
-$header_reviews_link = "reviews";
+$header_reviews_link = "otzyvy";
 $header_hosting_link = "hosting";
 $header_faq_link = "faq";
-$header_register_link = "signup";
+$header_register_link = "registr";
 
 // Page INDEX translations
 $alt_hero = "Герои 2freehosting";
