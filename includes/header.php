@@ -19,6 +19,7 @@
 	<!-- include the site stylesheet -->
 	<link href='https://fonts.googleapis.com/css?family=PT+Sans:400,700%7CPassion+One:400' rel='stylesheet' type='text/css'>
 	<link media="all" rel="stylesheet" href="<?php echo $home_page_url; ?>/css/all.css">
+<?php include 'cookie.php';?>
 </head>
 <?php include 'analytics.html';?>
 <body>
